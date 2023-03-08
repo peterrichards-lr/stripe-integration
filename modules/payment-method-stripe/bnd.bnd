@@ -1,0 +1,3 @@
+Bundle-Name: payment-method-stripe
+Bundle-SymbolicName: com.liferay.payment.method.stripe
+Bundle-Version: 1.0.0

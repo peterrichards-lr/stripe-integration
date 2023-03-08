@@ -1,0 +1,5 @@
+dependencies {
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+	implementation group: 'com.stripe', name: 'stripe-java', version: '22.2.0'
+	implementation group: 'com.google.code.gson', name: 'gson', version: '2.7'
+}
